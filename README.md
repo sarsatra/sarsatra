@@ -1,4 +1,4 @@
 ### Hello I'm Sarsatra 
 
 I'm trying to learn C ++
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sarsatra)](https://github.com/anuraghazra/github-readme-stats)
+[![Sarsatra's github stats](https://github-readme-stats.vercel.app/api?username=sarsatra)](https://github.com/sarsatra)
